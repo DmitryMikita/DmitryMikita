@@ -13,7 +13,7 @@
 
 #### Практика  
 
-[Тестирование API (REST)](https://github.com/DmitryMikita/APIcollections)
+[Тестирование API (REST)](https://github.com/DmitryMikita/APIcollections)  
 <img src="https://www.codewars.com/users/DmitryMikita/badges/micro">
 
 
